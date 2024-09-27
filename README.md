@@ -15,5 +15,15 @@ I'm an AI Engineer with a passion for building LLMs and multimodal applications.
 - [**Ticket Sewa**](https://github.com/your-ticket-sewa-project) - Microservice-based ticketing platform.
 
 
-![Chetan's GitHub stats](https://github-readme-stats.vercel.app/api?username=chetan-pun&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chetan-pun)
+### 📊 GitHub Stats & Metrics
+![Chetan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+### 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark&row=1&column=6)
+
+### 📈 GitHub Activity Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&theme=react-dark)
+
+### 🔥 GitHub Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=radical&hide_border=true)
