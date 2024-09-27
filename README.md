@@ -1,7 +1,7 @@
 # Hello, I'm Chetan 👋
 
 ### 👨‍💻 About Me
-I'm an AI Engineer with a passion for building LLMs and multimodal applications. I love working on deep learning, NLP, and AI assistants like [Luna](https://github.com/your-luna-project). 
+I'm an AI Engineer with a passion for building LLMs and multimodal applications. I love working on deep learning, NLP, and AI assistants like [Luna](https://chetanpun.com.np/). 
 
 ### 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
