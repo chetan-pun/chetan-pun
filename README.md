@@ -17,7 +17,6 @@ I'm an AI Engineer with a passion for building LLMs and multimodal applications.
 
 ### 📊 GitHub Stats & Metrics
 ![Chetan's GitHub stats](https://github-readme-stats.vercel.app/api?username=chetan-pun&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chetan-pun&layout=compact&theme=radical)
 
 ### 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=chetan-pun&theme=onedark&row=1&column=6)
