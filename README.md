@@ -20,34 +20,9 @@ _Preprint on arXiv; published November 2024._
 
 ---
 
-## 🚀 Core Skills
-
-- **Languages & Frameworks**  
-  Python · TypeScript · Node.js · FastAPI · Express · React / React Native  
-- **AI & ML**  
-  OpenAI API · LangChain · Hugging Face Transformers · PyTorch · TensorFlow  
-- **Multi-Agent Systems**  
-  Agent orchestration · SSE / WebSockets · Serverless workflows  
-- **Backend & DevOps**  
-  Docker · Kubernetes · AWS (Lambda, ECS, EKS) · Terraform · CI/CD (GitHub Actions)  
-- **Databases & Storage**  
-  PostgreSQL · MongoDB · Redis · RabbitMQ · Pinecone · Weaviate  
-
----
-
-## 📊 GitHub Activity
-
-![Chetan's GitHub stats](https://github-readme-stats.vercel.app/api?username=chetanpun&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chetanpun&layout=compact&theme=radical)
-
-
-## 📫 Let’s Connect
-
 - **Email:** chetan@chetanpun.com.np  
-- **LinkedIn:** [chetanphakamipun](https://www.linkedin.com/in/chetanphakamipun)  
+- **LinkedIn:** [chetanpun](https://www.linkedin.com/in/chetan-phakami-pun/)  
 - **Twitter:** [@chetanpun](https://twitter.com/chetanpun)  
 
 ---
 
-> “Building intelligent systems that think and collaborate—one commit at a time.”  
