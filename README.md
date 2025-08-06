@@ -22,7 +22,7 @@ _Preprint on arXiv; published November 2024._
 
 - **Email:** chetan@chetanpun.com.np  
 - **LinkedIn:** [chetanpun](https://www.linkedin.com/in/chetan-phakami-pun/)  
-- **Twitter:** [@chetanpun](https://twitter.com/chetanpun)  
+- **Twitter:** [@chetanpun9](https://twitter.com/chetanpun9)  
 
 ---
 
